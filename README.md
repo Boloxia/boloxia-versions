@@ -55,11 +55,9 @@ Updating Every ~~2 Weeks~~ 1 Month
   </a>
 </p>
 
+![Build](https://img.shields.io/github/actions/workflow/status/Boloxia/boloxia-versions/build.yml)
+![License](https://img.shields.io/github/license/Boloxia/boloxia-versions)
 
-
-![Players](https://img.shields.io/badge/Players-Multiplayer-brightgreen)
-![Mode](https://img.shields.io/badge/Mode-PvP-blue)
-![Status](https://img.shields.io/badge/Status-Alpha-red)
 
 
 Game Made By DerTriti And SoyLeague (Luca_Aiuto)
