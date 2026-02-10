@@ -49,4 +49,11 @@ Updating Every ~~2 Weeks~~ 1 Month
 </table>
 
 
+<p align="center">
+  <a href="https://www.roblox.com/games/137930584414111/Boloxia-Remastered">
+    <img src="https://img.shields.io/badge/PLAY%20NOW-ROBLOX-red?style=for-the-badge&logo=roblox">
+  </a>
+</p>
+
+
 Game Made By DerTriti And SoyLeague (Luca_Aiuto)
