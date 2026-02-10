@@ -33,15 +33,20 @@ Updating Every ~~2 Weeks~~ 1 Month
 [Boloxia Classic's Italian Trailer](https://www.youtube.com/watch?v=GufJr5-xaRE)
 [Boloxia Classic's English Trailer](https://www.youtube.com/watch?v=iqTrYnL8T_k)
 
-# Other
+# End Page
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG2.webp" alt="Descrizione">
-  <br>
-  <em>SoyLeague.</em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG1.webp" width="300"><br>
+      <em>DerTriti</em>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG2.webp" width="300"><br>
+      <em>SoyLeague</em>
+    </td>
+  </tr>
+</table>
 
-
-**Questa è una didascalia in grassetto sotto l'immagine.**
 
 Game Made By DerTriti And SoyLeague (Luca_Aiuto)
