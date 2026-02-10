@@ -35,7 +35,12 @@ Updating Every ~~2 Weeks~~ 1 Month
 
 # Other
 
-![DerTriti](https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG1.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG2.webp" alt="Descrizione">
+  <br>
+  <em>SoyLeague.</em>
+</p>
+
 
 **Questa è una didascalia in grassetto sotto l'immagine.**
 
