@@ -33,7 +33,7 @@ Updating Every ~~2 Weeks~~ 1 Month
 [Boloxia Classic's Italian Trailer](https://www.youtube.com/watch?v=GufJr5-xaRE)
 [Boloxia Classic's English Trailer](https://www.youtube.com/watch?v=iqTrYnL8T_k)
 
-# End Page
+# Created By
 
 <table align="center">
   <tr>
@@ -48,6 +48,7 @@ Updating Every ~~2 Weeks~~ 1 Month
   </tr>
 </table>
 
+# Other
 
 <p align="center">
   <a href="https://www.roblox.com/games/137930584414111/Boloxia-Remastered">
@@ -55,8 +56,8 @@ Updating Every ~~2 Weeks~~ 1 Month
   </a>
 </p>
 
-![Build](https://img.shields.io/github/actions/workflow/status/Boloxia/boloxia-versions/build.yml)
-![License](https://img.shields.io/github/license/Boloxia/boloxia-versions)
+[![Check Out](https://img.shields.io/badge/Check%20Out-boloxia.github.io-blue?style=for-the-badge)](https://boloxia.github.io)
+
 
 
 
