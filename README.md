@@ -12,4 +12,15 @@ Versions starting from 1.2 to 1.9 are lost
 | Boloxia XMAS | Remastered |
 | Boloxia Destroy   | New Game |
 
-Updating Every ~~2 Weeks~~
+Updating Every ~~2 Weeks~~ 1 Month
+
+
+<dl>
+  <dt>Is Boloxia Classic & Remastered Diffrent Games</dt>
+  <dd>They were, then Classic got Discontinued</dd>
+
+  <dt>All Of Boloxia Studio's Games</dt>
+  <dd>Boloxia</em>.</dd>
+  <dd>Boloxia Destroy</em>.</dd>
+  <dd>Boloxia Meeting</em>.</dd>
+</dl>
