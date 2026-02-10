@@ -32,3 +32,7 @@ Updating Every ~~2 Weeks~~ 1 Month
 
 [Boloxia Classic's Italian Trailer](https://www.youtube.com/watch?v=GufJr5-xaRE)
 [Boloxia Classic's English Trailer](https://www.youtube.com/watch?v=iqTrYnL8T_k)
+
+
+
+Boloxia Made By DerTriti And SoyLeague (Luca_Aiuto)
