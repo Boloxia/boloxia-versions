@@ -24,3 +24,11 @@ Updating Every ~~2 Weeks~~ 1 Month
   <dd>Boloxia Destroy</em>.</dd>
   <dd>Boloxia Meeting</em>.</dd>
 </dl>
+
+
+
+
+# Boloxia YT Videos
+
+[Boloxia Classic's Italian Trailer](https://www.youtube.com/watch?v=GufJr5-xaRE)
+[Boloxia Classic's English Trailer](https://www.youtube.com/watch?v=iqTrYnL8T_k)
