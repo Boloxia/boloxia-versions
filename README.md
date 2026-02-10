@@ -35,5 +35,8 @@ Updating Every ~~2 Weeks~~ 1 Month
 
 # Other
 
+![DerTriti](https://raw.githubusercontent.com/Boloxia/boloxia-versions/refs/heads/main/IMG1.webp)
+
+**Questa è una didascalia in grassetto sotto l'immagine.**
 
 Game Made By DerTriti And SoyLeague (Luca_Aiuto)
