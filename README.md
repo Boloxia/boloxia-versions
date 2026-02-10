@@ -56,4 +56,10 @@ Updating Every ~~2 Weeks~~ 1 Month
 </p>
 
 
+
+![Players](https://img.shields.io/badge/Players-Multiplayer-brightgreen)
+![Mode](https://img.shields.io/badge/Mode-PvP-blue)
+![Status](https://img.shields.io/badge/Status-Alpha-red)
+
+
 Game Made By DerTriti And SoyLeague (Luca_Aiuto)
